@@ -25,3 +25,4 @@ Dashboard Interaction <a href="https://github.com/Manika-Sachdeva/Data-Analysis-
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+<img width="1214" height="550" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/e9b9b9e5-77d8-4923-88b1-8e2cbf331fa3" />
